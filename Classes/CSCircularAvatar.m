@@ -131,7 +131,7 @@
 {
     if (_avatarLayer == nil) {
         
-        self.avatarLayer = [CALayer layer];
+        self.avatarLayer = [CAShapeLayer layer];
         
         self.avatarLayer.frame = CGRectMake(0, 0, self.bounds.size.width, self.bounds.size.height);
         
