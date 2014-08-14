@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "CSCircularAvatar"
-  s.version          = "0.0.1"
+  s.version          = "0.0.2"
   s.summary          = "Provides an circular avatar view with progress ring"
   s.homepage         = "https://github.com/focuspirit/CSCircularAvatar"
   s.license          = 'MIT'
